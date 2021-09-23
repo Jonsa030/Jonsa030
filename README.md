@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jonsa030
-- 👀 I’m interested in programming and coding for fun and possibly a future career. Business and Finance interest me also.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, C, C++ and C#.
-- 💞️ I’m looking to collaborate on easy projects, nothing too demanding.
+- 🥅 I’m interested in programming and coding for fun and possibly a future career. Business and Finance interest me also.
+- 📚 I’m currently learning HTML, CSS, JavaScript, C, C++ and C#.
+- ✅ I’m looking to collaborate on easy projects, nothing too demanding.
 - 📫 How to reach me: email - jgaasbeek00@gmail.com.
 
 <!---
